@@ -1,5 +1,5 @@
 {
-  "name": "@brite/rest-validation",
+  "name": "@brite/validation",
   "module": "index.ts",
   "type": "module",
   "author": {
